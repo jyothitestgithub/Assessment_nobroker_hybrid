@@ -1,0 +1,511 @@
+[INFO] 2022-03-27 15:01:24,871 nobroker Flatsale - Flatsale test started
+[INFO] 2022-03-27 15:01:31,562 nobroker Flatsale - User clicked on Flats for sale in T Nagr
+[INFO] 2022-03-27 15:01:37,580 nobroker Flatsale - Page contains all the available options 
+[INFO] 2022-03-27 15:01:37,585 nobroker Flatsale - --To check Flats for sale in T Nagar  Passed--
+[INFO] 2022-03-27 15:01:37,619 nobroker About - Post test started
+[INFO] 2022-03-27 15:01:40,335 nobroker About - User clicked on About us
+[INFO] 2022-03-27 15:01:45,408 nobroker About - Page contains Sell or Rent your Property For Free 
+[INFO] 2022-03-27 15:01:45,409 nobroker About - --To check About Us  Passed--
+[INFO] 2022-03-27 15:01:45,420 nobroker Elect - Elect test started
+[INFO] 2022-03-27 15:01:48,063 nobroker Elect - User clicked on  Miscellaneous
+[INFO] 2022-03-27 15:01:48,214 nobroker Elect - User clicked on  Electrician Services Bangalore
+[INFO] 2022-03-27 15:01:55,280 nobroker Elect - --To verify Electrican service Passed--
+[INFO] 2022-03-27 15:03:07,106 nobroker Flatsale - Flatsale test started
+[INFO] 2022-03-27 15:03:11,817 nobroker Flatsale - User clicked on Flats for sale in T Nagr
+[INFO] 2022-03-27 15:03:17,832 nobroker Flatsale - Page contains all the available options 
+[INFO] 2022-03-27 15:03:17,839 nobroker Flatsale - --To check Flats for sale in T Nagar  Passed--
+[INFO] 2022-03-27 15:03:17,882 nobroker About - Post test started
+[INFO] 2022-03-27 15:03:20,450 nobroker About - User clicked on About us
+[INFO] 2022-03-27 15:03:25,520 nobroker About - Page contains Sell or Rent your Property For Free 
+[INFO] 2022-03-27 15:03:25,521 nobroker About - --To check About Us  Passed--
+[INFO] 2022-03-27 15:03:25,531 nobroker Elect - Elect test started
+[INFO] 2022-03-27 15:03:28,138 nobroker Elect - User clicked on  Miscellaneous
+[INFO] 2022-03-27 15:03:28,373 nobroker Elect - User clicked on  Electrician Services Bangalore
+[INFO] 2022-03-27 15:03:35,456 nobroker Elect - --To verify Electrican service Passed--
+[INFO] 2022-03-27 15:05:15,478 nobroker Hostel - Post test started
+[INFO] 2022-03-27 15:05:22,707 nobroker Hostel - User clicked on PG in Powai
+[INFO] 2022-03-27 15:05:27,767 nobroker Hostel - --To check PG or Hostel Passed--
+[INFO] 2022-03-27 15:05:27,784 nobroker Flatsale - Flatsale test started
+[INFO] 2022-03-27 15:05:33,388 nobroker Flatsale - User clicked on Flats for sale in T Nagr
+[INFO] 2022-03-27 15:05:39,409 nobroker Flatsale - Page contains all the available options 
+[INFO] 2022-03-27 15:05:39,409 nobroker Flatsale - --To check Flats for sale in T Nagar  Passed--
+[INFO] 2022-03-27 15:05:39,425 nobroker About - Post test started
+[INFO] 2022-03-27 15:05:42,098 nobroker About - User clicked on About us
+[INFO] 2022-03-27 15:05:47,169 nobroker About - Page contains Sell or Rent your Property For Free 
+[INFO] 2022-03-27 15:05:47,170 nobroker About - --To check About Us  Passed--
+[INFO] 2022-03-27 15:05:47,185 nobroker Elect - Elect test started
+[INFO] 2022-03-27 15:05:50,293 nobroker Elect - User clicked on  Miscellaneous
+[INFO] 2022-03-27 15:05:50,598 nobroker Elect - User clicked on  Electrician Services Bangalore
+[INFO] 2022-03-27 15:05:57,689 nobroker Elect - --To verify Electrican service Passed--
+[INFO] 2022-03-27 15:09:44,702 nobroker RentalAgt - RentalAgt test started
+[INFO] 2022-03-27 15:09:47,375 nobroker RentalAgt - User clicked on Rental Agreement under Rent in footer
+[INFO] 2022-03-27 15:09:49,507 nobroker RentalAgt - --To check about Rental Agreement Passed--
+[INFO] 2022-03-27 15:09:49,530 nobroker Hostel - Post test started
+[INFO] 2022-03-27 15:09:51,694 nobroker Hostel - User clicked on PG in Powai
+[INFO] 2022-03-27 15:09:56,791 nobroker Hostel - --To check PG or Hostel Passed--
+[INFO] 2022-03-27 15:09:56,801 nobroker Flatsale - Flatsale test started
+[INFO] 2022-03-27 15:10:01,977 nobroker Flatsale - User clicked on Flats for sale in T Nagr
+[INFO] 2022-03-27 15:10:08,001 nobroker Flatsale - --To check Flats for sale in T Nagar Failed--
+[INFO] 2022-03-27 15:10:08,415 nobroker About - Post test started
+[INFO] 2022-03-27 15:10:11,316 nobroker About - User clicked on About us
+[INFO] 2022-03-27 15:10:16,368 nobroker About - Page contains Sell or Rent your Property For Free 
+[INFO] 2022-03-27 15:10:16,369 nobroker About - --To check About Us  Passed--
+[INFO] 2022-03-27 15:10:16,379 nobroker Elect - Elect test started
+[INFO] 2022-03-27 15:10:19,320 nobroker Elect - User clicked on  Miscellaneous
+[INFO] 2022-03-27 15:10:19,502 nobroker Elect - User clicked on  Electrician Services Bangalore
+[INFO] 2022-03-27 15:10:26,546 nobroker Elect - --To verify Electrican service Passed--
+[INFO] 2022-03-27 15:12:31,067 nobroker RentalAgt - RentalAgt test started
+[INFO] 2022-03-27 15:12:36,902 nobroker RentalAgt - User clicked on Rental Agreement under Rent in footer
+[INFO] 2022-03-27 15:12:39,122 nobroker RentalAgt - --To check about Rental Agreement Passed--
+[INFO] 2022-03-27 15:12:39,143 nobroker Hostel - Post test started
+[INFO] 2022-03-27 15:12:41,088 nobroker Hostel - User clicked on PG in Powai
+[INFO] 2022-03-27 15:12:46,143 nobroker Hostel - --To check PG or Hostel Passed--
+[INFO] 2022-03-27 15:12:46,152 nobroker Flatsale - Flatsale test started
+[INFO] 2022-03-27 15:12:51,710 nobroker Flatsale - User clicked on Flats for sale in T Nagr
+[INFO] 2022-03-27 15:12:57,819 nobroker Flatsale - Page contains all the available options 
+[INFO] 2022-03-27 15:12:57,819 nobroker Flatsale - --To check Flats for sale in T Nagar  Passed--
+[INFO] 2022-03-27 15:12:57,829 nobroker About - Post test started
+[INFO] 2022-03-27 15:13:00,585 nobroker About - User clicked on About us
+[INFO] 2022-03-27 15:13:05,638 nobroker About - Page contains Sell or Rent your Property For Free 
+[INFO] 2022-03-27 15:13:05,639 nobroker About - --To check About Us  Passed--
+[INFO] 2022-03-27 15:13:05,651 nobroker Elect - Elect test started
+[INFO] 2022-03-27 15:13:08,324 nobroker Elect - User clicked on  Miscellaneous
+[INFO] 2022-03-27 15:13:08,531 nobroker Elect - User clicked on  Electrician Services Bangalore
+[INFO] 2022-03-27 15:13:15,620 nobroker Elect - --To verify Electrican service Passed--
+[INFO] 2022-03-27 15:14:06,653 nobroker RentalAgt - RentalAgt test started
+[INFO] 2022-03-27 15:14:09,729 nobroker RentalAgt - User clicked on Rental Agreement under Rent in footer
+[INFO] 2022-03-27 15:14:11,924 nobroker RentalAgt - --To check about Rental Agreement Passed--
+[INFO] 2022-03-27 15:14:11,948 nobroker Hostel - Post test started
+[INFO] 2022-03-27 15:14:13,750 nobroker Hostel - User clicked on PG in Powai
+[INFO] 2022-03-27 15:14:18,834 nobroker Hostel - --To check PG or Hostel Passed--
+[INFO] 2022-03-27 15:14:18,844 nobroker Flatsale - Flatsale test started
+[INFO] 2022-03-27 15:14:23,400 nobroker Flatsale - User clicked on Flats for sale in T Nagr
+[INFO] 2022-03-27 15:14:29,502 nobroker Flatsale - Page contains all the available options 
+[INFO] 2022-03-27 15:14:29,503 nobroker Flatsale - --To check Flats for sale in T Nagar  Passed--
+[INFO] 2022-03-27 15:14:29,511 nobroker About - Post test started
+[INFO] 2022-03-27 15:14:33,594 nobroker About - User clicked on About us
+[INFO] 2022-03-27 15:14:38,643 nobroker About - Page contains Sell or Rent your Property For Free 
+[INFO] 2022-03-27 15:14:38,644 nobroker About - --To check About Us  Passed--
+[INFO] 2022-03-27 15:14:38,653 nobroker Elect - Elect test started
+[INFO] 2022-03-27 15:14:42,784 nobroker Elect - User clicked on  Miscellaneous
+[INFO] 2022-03-27 15:14:43,020 nobroker Elect - User clicked on  Electrician Services Bangalore
+[INFO] 2022-03-27 15:14:50,111 nobroker Elect - --To verify Electrican service Passed--
+[INFO] 2022-03-27 15:14:50,123 nobroker Seller - Seller test started
+[INFO] 2022-03-27 15:14:54,572 nobroker Seller - User clicked on Menu
+[INFO] 2022-03-27 15:14:57,084 nobroker Seller - User clicked on Seller Plans
+[INFO] 2022-03-27 15:16:08,094 nobroker RentalAgt - RentalAgt test started
+[INFO] 2022-03-27 15:16:10,688 nobroker RentalAgt - User clicked on Rental Agreement under Rent in footer
+[INFO] 2022-03-27 15:16:12,926 nobroker RentalAgt - --To check about Rental Agreement Passed--
+[INFO] 2022-03-27 15:16:12,962 nobroker Hostel - Post test started
+[INFO] 2022-03-27 15:16:15,388 nobroker Hostel - User clicked on PG in Powai
+[INFO] 2022-03-27 15:16:20,476 nobroker Hostel - --To check PG or Hostel Passed--
+[INFO] 2022-03-27 15:16:20,487 nobroker Flatsale - Flatsale test started
+[INFO] 2022-03-27 15:16:26,150 nobroker Flatsale - User clicked on Flats for sale in T Nagr
+[INFO] 2022-03-27 15:16:32,234 nobroker Flatsale - Page contains all the available options 
+[INFO] 2022-03-27 15:16:32,235 nobroker Flatsale - --To check Flats for sale in T Nagar  Passed--
+[INFO] 2022-03-27 15:16:32,240 nobroker About - Post test started
+[INFO] 2022-03-27 15:16:35,029 nobroker About - User clicked on About us
+[INFO] 2022-03-27 15:16:40,076 nobroker About - Page contains Sell or Rent your Property For Free 
+[INFO] 2022-03-27 15:16:40,077 nobroker About - --To check About Us  Passed--
+[INFO] 2022-03-27 15:16:40,090 nobroker Elect - Elect test started
+[INFO] 2022-03-27 15:16:42,958 nobroker Elect - User clicked on  Miscellaneous
+[INFO] 2022-03-27 15:16:43,083 nobroker Elect - User clicked on  Electrician Services Bangalore
+[INFO] 2022-03-27 15:16:50,169 nobroker Elect - --To verify Electrican service Passed--
+[INFO] 2022-03-27 15:16:50,178 nobroker Seller - Seller test started
+[INFO] 2022-03-27 15:16:52,767 nobroker Seller - User clicked on Menu
+[INFO] 2022-03-27 15:16:55,287 nobroker Seller - User clicked on Seller Plans
+[INFO] 2022-03-27 15:16:55,292 nobroker Post - Post test started
+[INFO] 2022-03-27 15:16:57,904 nobroker Post - User clicked on Post Free property ad
+[INFO] 2022-03-27 15:17:02,988 nobroker Post - Page contains Sell or Rent your Property For Free 
+[INFO] 2022-03-27 15:17:02,989 nobroker Post - --To verify Post property Passed--
+[INFO] 2022-03-27 15:17:38,689 nobroker RentalAgt - RentalAgt test started
+[INFO] 2022-03-27 15:17:41,053 nobroker RentalAgt - User clicked on Rental Agreement under Rent in footer
+[INFO] 2022-03-27 15:17:43,252 nobroker RentalAgt - --To check about Rental Agreement Passed--
+[INFO] 2022-03-27 15:17:43,271 nobroker Hostel - Post test started
+[INFO] 2022-03-27 15:17:46,201 nobroker Hostel - User clicked on PG in Powai
+[INFO] 2022-03-27 15:17:51,256 nobroker Hostel - --To check PG or Hostel Passed--
+[INFO] 2022-03-27 15:17:51,262 nobroker Flatsale - Flatsale test started
+[INFO] 2022-03-27 15:17:57,043 nobroker Flatsale - User clicked on Flats for sale in T Nagr
+[INFO] 2022-03-27 15:18:03,124 nobroker Flatsale - Page contains all the available options 
+[INFO] 2022-03-27 15:18:03,124 nobroker Flatsale - --To check Flats for sale in T Nagar  Passed--
+[INFO] 2022-03-27 15:18:03,135 nobroker About - Post test started
+[INFO] 2022-03-27 15:18:05,874 nobroker About - User clicked on About us
+[INFO] 2022-03-27 15:18:10,924 nobroker About - Page contains Sell or Rent your Property For Free 
+[INFO] 2022-03-27 15:18:10,924 nobroker About - --To check About Us  Passed--
+[INFO] 2022-03-27 15:18:10,936 nobroker Elect - Elect test started
+[INFO] 2022-03-27 15:18:13,653 nobroker Elect - User clicked on  Miscellaneous
+[INFO] 2022-03-27 15:18:13,777 nobroker Elect - User clicked on  Electrician Services Bangalore
+[INFO] 2022-03-27 15:18:20,869 nobroker Elect - --To verify Electrican service Passed--
+[INFO] 2022-03-27 15:18:20,878 nobroker Seller - Seller test started
+[INFO] 2022-03-27 15:18:23,591 nobroker Seller - User clicked on Menu
+[INFO] 2022-03-27 15:18:25,985 nobroker Seller - User clicked on Seller Plans
+[INFO] 2022-03-27 15:18:25,989 nobroker Warehouse - Warehouse test started
+[INFO] 2022-03-27 15:18:28,826 nobroker Warehouse - User clicked on Commercial
+[INFO] 2022-03-27 15:18:28,926 nobroker Warehouse - User clicked on Warehouse for Rent in Gurgaon
+[INFO] 2022-03-27 15:18:33,989 nobroker Warehouse - Page contains all the available options 
+[INFO] 2022-03-27 15:18:33,990 nobroker Warehouse - --To check warehouses for rent  Passed--
+[INFO] 2022-03-27 15:18:33,999 nobroker Post - Post test started
+[INFO] 2022-03-27 15:18:37,741 nobroker Post - User clicked on Post Free property ad
+[INFO] 2022-03-27 15:18:42,821 nobroker Post - Page contains Sell or Rent your Property For Free 
+[INFO] 2022-03-27 15:18:42,822 nobroker Post - --To verify Post property Passed--
+[INFO] 2022-03-27 15:20:00,939 nobroker RentalAgt - RentalAgt test started
+[INFO] 2022-03-27 15:20:03,648 nobroker RentalAgt - User clicked on Rental Agreement under Rent in footer
+[INFO] 2022-03-27 15:20:05,863 nobroker RentalAgt - --To check about Rental Agreement Passed--
+[INFO] 2022-03-27 15:20:05,888 nobroker Hostel - Post test started
+[INFO] 2022-03-27 15:20:08,581 nobroker Hostel - User clicked on PG in Powai
+[INFO] 2022-03-27 15:20:13,668 nobroker Hostel - --To check PG or Hostel Passed--
+[INFO] 2022-03-27 15:20:13,679 nobroker Flatsale - Flatsale test started
+[INFO] 2022-03-27 15:20:19,267 nobroker Flatsale - User clicked on Flats for sale in T Nagr
+[INFO] 2022-03-27 15:20:25,346 nobroker Flatsale - Page contains all the available options 
+[INFO] 2022-03-27 15:20:25,347 nobroker Flatsale - --To check Flats for sale in T Nagar  Passed--
+[INFO] 2022-03-27 15:20:25,357 nobroker About - Post test started
+[INFO] 2022-03-27 15:20:27,955 nobroker About - User clicked on About us
+[INFO] 2022-03-27 15:20:33,003 nobroker About - Page contains Sell or Rent your Property For Free 
+[INFO] 2022-03-27 15:20:33,004 nobroker About - --To check About Us  Passed--
+[INFO] 2022-03-27 15:20:33,020 nobroker Elect - Elect test started
+[INFO] 2022-03-27 15:20:35,823 nobroker Elect - User clicked on  Miscellaneous
+[INFO] 2022-03-27 15:20:36,128 nobroker Elect - User clicked on  Electrician Services Bangalore
+[INFO] 2022-03-27 15:20:43,218 nobroker Elect - --To verify Electrican service Passed--
+[INFO] 2022-03-27 15:20:43,228 nobroker Seller - Seller test started
+[INFO] 2022-03-27 15:20:46,196 nobroker Seller - User clicked on Menu
+[INFO] 2022-03-27 15:20:48,898 nobroker Seller - User clicked on Seller Plans
+[INFO] 2022-03-27 15:20:48,904 nobroker Warehouse - Warehouse test started
+[INFO] 2022-03-27 15:20:51,422 nobroker Warehouse - User clicked on Commercial
+[INFO] 2022-03-27 15:20:51,588 nobroker Warehouse - User clicked on Warehouse for Rent in Gurgaon
+[INFO] 2022-03-27 15:20:56,676 nobroker Warehouse - Page contains all the available options 
+[INFO] 2022-03-27 15:20:56,677 nobroker Warehouse - --To check warehouses for rent  Passed--
+[INFO] 2022-03-27 15:20:56,687 nobroker Blog - Blog test started
+[INFO] 2022-03-27 15:20:59,452 nobroker Blog - User clicked on Menu
+[INFO] 2022-03-27 15:22:02,998 nobroker Blog - User clicked on Blog
+[INFO] 2022-03-27 15:22:05,018 nobroker Blog - --To check noboker's blog Passed--
+[INFO] 2022-03-27 15:22:05,034 nobroker Post - Post test started
+[INFO] 2022-03-27 15:22:07,726 nobroker Post - User clicked on Post Free property ad
+[INFO] 2022-03-27 15:22:12,820 nobroker Post - Page contains Sell or Rent your Property For Free 
+[INFO] 2022-03-27 15:22:12,821 nobroker Post - --To verify Post property Passed--
+[INFO] 2022-03-27 15:23:43,585 nobroker RentalAgt - RentalAgt test started
+[INFO] 2022-03-27 15:23:45,845 nobroker RentalAgt - User clicked on Rental Agreement under Rent in footer
+[INFO] 2022-03-27 15:23:48,082 nobroker RentalAgt - --To check about Rental Agreement Passed--
+[INFO] 2022-03-27 15:23:48,105 nobroker Hostel - Post test started
+[INFO] 2022-03-27 15:23:50,164 nobroker Hostel - User clicked on PG in Powai
+[INFO] 2022-03-27 15:23:55,261 nobroker Hostel - --To check PG or Hostel Passed--
+[INFO] 2022-03-27 15:23:55,272 nobroker Flatsale - Flatsale test started
+[INFO] 2022-03-27 15:24:00,513 nobroker Flatsale - User clicked on Flats for sale in T Nagr
+[INFO] 2022-03-27 15:24:06,629 nobroker Flatsale - Page contains all the available options 
+[INFO] 2022-03-27 15:24:06,631 nobroker Flatsale - --To check Flats for sale in T Nagar  Passed--
+[INFO] 2022-03-27 15:24:06,640 nobroker About - Post test started
+[INFO] 2022-03-27 15:24:09,393 nobroker About - User clicked on About us
+[INFO] 2022-03-27 15:24:14,449 nobroker About - Page contains Sell or Rent your Property For Free 
+[INFO] 2022-03-27 15:24:14,451 nobroker About - --To check About Us  Passed--
+[INFO] 2022-03-27 15:24:14,466 nobroker Elect - Elect test started
+[INFO] 2022-03-27 15:24:17,303 nobroker Elect - User clicked on  Miscellaneous
+[INFO] 2022-03-27 15:24:17,488 nobroker Elect - User clicked on  Electrician Services Bangalore
+[INFO] 2022-03-27 15:24:24,575 nobroker Elect - --To verify Electrican service Passed--
+[INFO] 2022-03-27 15:24:24,584 nobroker Seller - Seller test started
+[INFO] 2022-03-27 15:24:27,465 nobroker Seller - User clicked on Menu
+[INFO] 2022-03-27 15:24:29,900 nobroker Seller - User clicked on Seller Plans
+[INFO] 2022-03-27 15:24:29,905 nobroker Warehouse - Warehouse test started
+[INFO] 2022-03-27 15:24:32,780 nobroker Warehouse - User clicked on Commercial
+[INFO] 2022-03-27 15:24:32,924 nobroker Warehouse - User clicked on Warehouse for Rent in Gurgaon
+[INFO] 2022-03-27 15:24:38,015 nobroker Warehouse - Page contains all the available options 
+[INFO] 2022-03-27 15:24:38,016 nobroker Warehouse - --To check warehouses for rent  Passed--
+[INFO] 2022-03-27 15:24:38,025 nobroker Blog - Blog test started
+[INFO] 2022-03-27 15:24:41,754 nobroker Blog - User clicked on Menu
+[INFO] 2022-03-27 15:25:14,791 nobroker Blog - User clicked on Blog
+[INFO] 2022-03-27 15:25:16,862 nobroker Blog - --To check noboker's blog Passed--
+[INFO] 2022-03-27 15:25:16,871 nobroker Post - Post test started
+[INFO] 2022-03-27 15:25:20,131 nobroker Post - User clicked on Post Free property ad
+[INFO] 2022-03-27 15:25:25,209 nobroker Post - Page contains Sell or Rent your Property For Free 
+[INFO] 2022-03-27 15:25:25,209 nobroker Post - --To verify Post property Passed--
+[INFO] 2022-03-27 15:25:27,517 nobroker Login - Url is opened
+[INFO] 2022-03-27 15:25:28,434 nobroker Login - User clicked Login
+[INFO] 2022-03-27 15:25:29,828 nobroker Login - User entered mobile number
+[INFO] 2022-03-27 15:26:47,752 nobroker RentalAgt - RentalAgt test started
+[INFO] 2022-03-27 15:26:50,706 nobroker RentalAgt - User clicked on Rental Agreement under Rent in footer
+[INFO] 2022-03-27 15:26:52,945 nobroker RentalAgt - --To check about Rental Agreement Passed--
+[INFO] 2022-03-27 15:26:52,976 nobroker Hostel - Post test started
+[INFO] 2022-03-27 15:26:56,087 nobroker Hostel - User clicked on PG in Powai
+[INFO] 2022-03-27 15:27:01,173 nobroker Hostel - --To check PG or Hostel Passed--
+[INFO] 2022-03-27 15:27:01,185 nobroker Flatsale - Flatsale test started
+[INFO] 2022-03-27 15:27:06,553 nobroker Flatsale - User clicked on Flats for sale in T Nagr
+[INFO] 2022-03-27 15:27:12,615 nobroker Flatsale - Page contains all the available options 
+[INFO] 2022-03-27 15:27:12,616 nobroker Flatsale - --To check Flats for sale in T Nagar  Passed--
+[INFO] 2022-03-27 15:27:12,627 nobroker About - Post test started
+[INFO] 2022-03-27 15:27:15,376 nobroker About - User clicked on About us
+[INFO] 2022-03-27 15:27:20,411 nobroker About - Page contains Sell or Rent your Property For Free 
+[INFO] 2022-03-27 15:27:20,411 nobroker About - --To check About Us  Passed--
+[INFO] 2022-03-27 15:27:20,423 nobroker Elect - Elect test started
+[INFO] 2022-03-27 15:27:23,663 nobroker Elect - User clicked on  Miscellaneous
+[INFO] 2022-03-27 15:27:23,794 nobroker Elect - User clicked on  Electrician Services Bangalore
+[INFO] 2022-03-27 15:27:30,880 nobroker Elect - --To verify Electrican service Passed--
+[INFO] 2022-03-27 15:27:30,891 nobroker Seller - Seller test started
+[INFO] 2022-03-27 15:27:33,608 nobroker Seller - User clicked on Menu
+[INFO] 2022-03-27 15:27:35,902 nobroker Seller - User clicked on Seller Plans
+[INFO] 2022-03-27 15:27:35,908 nobroker Warehouse - Warehouse test started
+[INFO] 2022-03-27 15:27:38,686 nobroker Warehouse - User clicked on Commercial
+[INFO] 2022-03-27 15:27:38,853 nobroker Warehouse - User clicked on Warehouse for Rent in Gurgaon
+[INFO] 2022-03-27 15:27:43,916 nobroker Warehouse - Page contains all the available options 
+[INFO] 2022-03-27 15:27:43,916 nobroker Warehouse - --To check warehouses for rent  Passed--
+[INFO] 2022-03-27 15:27:43,925 nobroker Blog - Blog test started
+[INFO] 2022-03-27 15:27:46,693 nobroker Blog - User clicked on Menu
+[INFO] 2022-03-27 15:28:49,364 nobroker Blog - User clicked on Blog
+[INFO] 2022-03-27 15:28:51,447 nobroker Blog - --To check noboker's blog Passed--
+[INFO] 2022-03-27 15:28:51,458 nobroker Post - Post test started
+[INFO] 2022-03-27 15:28:54,148 nobroker Post - User clicked on Post Free property ad
+[INFO] 2022-03-27 15:28:59,227 nobroker Post - Page contains Sell or Rent your Property For Free 
+[INFO] 2022-03-27 15:28:59,228 nobroker Post - --To verify Post property Passed--
+[INFO] 2022-03-27 15:29:01,528 nobroker Login - Url is opened
+[INFO] 2022-03-27 15:29:02,019 nobroker Login - User clicked Login
+[INFO] 2022-03-27 15:29:04,147 nobroker Login - User entered mobile number
+[INFO] 2022-03-27 15:31:31,342 nobroker RentalAgt - RentalAgt test started
+[INFO] 2022-03-27 15:31:36,081 nobroker RentalAgt - User clicked on Rental Agreement under Rent in footer
+[INFO] 2022-03-27 15:31:38,231 nobroker RentalAgt - --To check about Rental Agreement Passed--
+[INFO] 2022-03-27 15:31:38,260 nobroker Hostel - Post test started
+[INFO] 2022-03-27 15:31:39,984 nobroker Hostel - User clicked on PG in Powai
+[INFO] 2022-03-27 15:31:45,133 nobroker Hostel - --To check PG or Hostel Passed--
+[INFO] 2022-03-27 15:31:45,143 nobroker Flatsale - Flatsale test started
+[INFO] 2022-03-27 15:31:52,830 nobroker Flatsale - User clicked on Flats for sale in T Nagr
+[INFO] 2022-03-27 15:31:58,914 nobroker Flatsale - Page contains all the available options 
+[INFO] 2022-03-27 15:31:58,915 nobroker Flatsale - --To check Flats for sale in T Nagar  Passed--
+[INFO] 2022-03-27 15:31:58,924 nobroker About - Post test started
+[INFO] 2022-03-27 15:32:01,546 nobroker About - User clicked on About us
+[INFO] 2022-03-27 15:32:06,593 nobroker About - Page contains Sell or Rent your Property For Free 
+[INFO] 2022-03-27 15:32:06,594 nobroker About - --To check About Us  Passed--
+[INFO] 2022-03-27 15:32:06,608 nobroker Elect - Elect test started
+[INFO] 2022-03-27 15:32:09,543 nobroker Elect - User clicked on  Miscellaneous
+[INFO] 2022-03-27 15:32:09,712 nobroker Elect - User clicked on  Electrician Services Bangalore
+[INFO] 2022-03-27 15:32:16,803 nobroker Elect - --To verify Electrican service Passed--
+[INFO] 2022-03-27 15:32:16,813 nobroker Seller - Seller test started
+[INFO] 2022-03-27 15:32:19,540 nobroker Seller - User clicked on Menu
+[INFO] 2022-03-27 15:32:22,411 nobroker Seller - User clicked on Seller Plans
+[INFO] 2022-03-27 15:32:22,418 nobroker Warehouse - Warehouse test started
+[INFO] 2022-03-27 15:32:25,307 nobroker Warehouse - User clicked on Commercial
+[INFO] 2022-03-27 15:32:25,553 nobroker Warehouse - User clicked on Warehouse for Rent in Gurgaon
+[INFO] 2022-03-27 15:32:30,635 nobroker Warehouse - Page contains all the available options 
+[INFO] 2022-03-27 15:32:30,635 nobroker Warehouse - --To check warehouses for rent  Passed--
+[INFO] 2022-03-27 15:32:30,645 nobroker Blog - Blog test started
+[INFO] 2022-03-27 15:32:34,454 nobroker Blog - User clicked on Menu
+[INFO] 2022-03-27 15:33:37,329 nobroker Blog - User clicked on Blog
+[INFO] 2022-03-27 15:33:39,391 nobroker Blog - --To check noboker's blog Passed--
+[INFO] 2022-03-27 15:33:39,399 nobroker Post - Post test started
+[INFO] 2022-03-27 15:33:42,602 nobroker Post - User clicked on Post Free property ad
+[INFO] 2022-03-27 15:33:47,682 nobroker Post - Page contains Sell or Rent your Property For Free 
+[INFO] 2022-03-27 15:33:47,682 nobroker Post - --To verify Post property Passed--
+[INFO] 2022-03-27 15:33:49,947 nobroker Login - Url is opened
+[INFO] 2022-03-27 15:33:50,877 nobroker Login - User clicked Login
+[INFO] 2022-03-27 15:33:52,233 nobroker Login - User entered mobile number
+[INFO] 2022-03-27 15:34:56,626 nobroker Login - Url is opened
+[INFO] 2022-03-27 15:34:57,018 nobroker Login - User clicked Login
+[INFO] 2022-03-27 15:34:58,288 nobroker Login - User entered mobile number
+[INFO] 2022-03-27 15:35:04,649 nobroker Login - User clicked on I've Password
+[INFO] 2022-03-27 15:35:04,802 nobroker Login - User entered password
+[INFO] 2022-03-27 15:35:05,088 nobroker Login - User clicked on Continue
+[INFO] 2022-03-27 15:35:08,218 nobroker Login - --To verify Login functionality Passed--
+[INFO] 2022-03-27 15:35:54,148 nobroker RentalAgt - RentalAgt test started
+[INFO] 2022-03-27 15:35:57,468 nobroker RentalAgt - User clicked on Rental Agreement under Rent in footer
+[INFO] 2022-03-27 15:35:59,649 nobroker RentalAgt - --To check about Rental Agreement Passed--
+[INFO] 2022-03-27 15:35:59,679 nobroker Hostel - Post test started
+[INFO] 2022-03-27 15:36:01,485 nobroker Hostel - User clicked on PG in Powai
+[INFO] 2022-03-27 15:36:06,737 nobroker Hostel - --To check PG or Hostel Passed--
+[INFO] 2022-03-27 15:36:06,746 nobroker Flatsale - Flatsale test started
+[INFO] 2022-03-27 15:36:11,152 nobroker Flatsale - User clicked on Flats for sale in T Nagr
+[INFO] 2022-03-27 15:36:17,243 nobroker Flatsale - Page contains all the available options 
+[INFO] 2022-03-27 15:36:17,244 nobroker Flatsale - --To check Flats for sale in T Nagar  Passed--
+[INFO] 2022-03-27 15:36:17,254 nobroker About - Post test started
+[INFO] 2022-03-27 15:36:21,206 nobroker About - User clicked on About us
+[INFO] 2022-03-27 15:36:26,264 nobroker About - Page contains Sell or Rent your Property For Free 
+[INFO] 2022-03-27 15:36:26,265 nobroker About - --To check About Us  Passed--
+[INFO] 2022-03-27 15:36:26,278 nobroker Elect - Elect test started
+[INFO] 2022-03-27 15:36:30,418 nobroker Elect - User clicked on  Miscellaneous
+[INFO] 2022-03-27 15:36:30,536 nobroker Elect - User clicked on  Electrician Services Bangalore
+[INFO] 2022-03-27 15:36:37,633 nobroker Elect - --To verify Electrican service Passed--
+[INFO] 2022-03-27 15:36:37,644 nobroker Seller - Seller test started
+[INFO] 2022-03-27 15:36:42,079 nobroker Seller - User clicked on Menu
+[INFO] 2022-03-27 15:36:44,564 nobroker Seller - User clicked on Seller Plans
+[INFO] 2022-03-27 15:36:44,578 nobroker Warehouse - Warehouse test started
+[INFO] 2022-03-27 15:36:48,447 nobroker Warehouse - User clicked on Commercial
+[INFO] 2022-03-27 15:36:48,747 nobroker Warehouse - User clicked on Warehouse for Rent in Gurgaon
+[INFO] 2022-03-27 15:36:53,827 nobroker Warehouse - Page contains all the available options 
+[INFO] 2022-03-27 15:36:53,828 nobroker Warehouse - --To check warehouses for rent  Passed--
+[INFO] 2022-03-27 15:36:53,836 nobroker Blog - Blog test started
+[INFO] 2022-03-27 15:36:58,486 nobroker Blog - User clicked on Menu
+[INFO] 2022-03-27 15:37:32,279 nobroker Blog - User clicked on Blog
+[INFO] 2022-03-27 15:37:34,378 nobroker Blog - --To check noboker's blog Passed--
+[INFO] 2022-03-27 15:37:34,387 nobroker Post - Post test started
+[INFO] 2022-03-27 15:37:39,049 nobroker Post - User clicked on Post Free property ad
+[INFO] 2022-03-27 15:37:44,132 nobroker Post - Page contains Sell or Rent your Property For Free 
+[INFO] 2022-03-27 15:37:44,132 nobroker Post - --To verify Post property Passed--
+[INFO] 2022-03-27 15:37:47,948 nobroker Login - Url is opened
+[INFO] 2022-03-27 15:37:48,710 nobroker Login - User clicked Login
+[INFO] 2022-03-27 15:37:50,000 nobroker Login - User entered mobile number
+[INFO] 2022-03-27 15:38:45,121 nobroker Login - Url is opened
+[INFO] 2022-03-27 15:38:45,464 nobroker Login - User clicked Login
+[INFO] 2022-03-27 15:38:46,734 nobroker Login - User entered mobile number
+[INFO] 2022-03-27 15:38:53,127 nobroker Login - User clicked on I've Password
+[INFO] 2022-03-27 15:38:53,310 nobroker Login - User entered password
+[INFO] 2022-03-27 15:38:53,568 nobroker Login - User clicked on Continue
+[INFO] 2022-03-27 15:38:56,693 nobroker Login - --To verify Login functionality Passed--
+[INFO] 2022-03-27 15:40:40,240 nobroker Login - Url is opened
+[INFO] 2022-03-27 15:40:40,598 nobroker Login - User clicked Login
+[INFO] 2022-03-27 15:40:42,536 nobroker Login - User entered mobile number
+[INFO] 2022-03-27 15:40:48,908 nobroker Login - User clicked on I've Password
+[INFO] 2022-03-27 15:40:49,123 nobroker Login - User entered password
+[INFO] 2022-03-27 15:40:49,399 nobroker Login - User clicked on Continue
+[INFO] 2022-03-27 15:44:16,667 nobroker Login - Url is opened
+[INFO] 2022-03-27 15:44:17,023 nobroker Login - User clicked Login
+[INFO] 2022-03-27 15:44:19,018 nobroker Login - User entered mobile number
+[INFO] 2022-03-27 15:44:25,322 nobroker Login - User clicked on I've Password
+[INFO] 2022-03-27 15:44:25,508 nobroker Login - User entered password
+[INFO] 2022-03-27 15:44:25,788 nobroker Login - User clicked on Continue
+[INFO] 2022-03-27 15:44:28,889 nobroker Login - --To verify Login functionality Passed--
+[INFO] 2022-03-27 15:44:50,479 nobroker RentalAgt - RentalAgt test started
+[INFO] 2022-03-27 15:44:53,126 nobroker RentalAgt - User clicked on Rental Agreement under Rent in footer
+[INFO] 2022-03-27 15:44:55,343 nobroker RentalAgt - --To check about Rental Agreement Passed--
+[INFO] 2022-03-27 15:44:55,364 nobroker Hostel - Post test started
+[INFO] 2022-03-27 15:44:57,693 nobroker Hostel - User clicked on PG in Powai
+[INFO] 2022-03-27 15:45:02,784 nobroker Hostel - --To check PG or Hostel Passed--
+[INFO] 2022-03-27 15:45:02,793 nobroker Flatsale - Flatsale test started
+[INFO] 2022-03-27 15:45:08,452 nobroker Flatsale - User clicked on Flats for sale in T Nagr
+[INFO] 2022-03-27 15:45:14,510 nobroker Flatsale - Page contains all the available options 
+[INFO] 2022-03-27 15:45:14,510 nobroker Flatsale - --To check Flats for sale in T Nagar  Passed--
+[INFO] 2022-03-27 15:45:14,518 nobroker About - Post test started
+[INFO] 2022-03-27 15:45:17,332 nobroker About - User clicked on About us
+[INFO] 2022-03-27 15:45:22,378 nobroker About - Page contains Sell or Rent your Property For Free 
+[INFO] 2022-03-27 15:45:22,378 nobroker About - --To check About Us  Passed--
+[INFO] 2022-03-27 15:45:22,389 nobroker Elect - Elect test started
+[INFO] 2022-03-27 15:45:25,348 nobroker Elect - User clicked on  Miscellaneous
+[INFO] 2022-03-27 15:45:25,569 nobroker Elect - User clicked on  Electrician Services Bangalore
+[INFO] 2022-03-27 15:45:32,657 nobroker Elect - --To verify Electrican service Passed--
+[INFO] 2022-03-27 15:45:32,667 nobroker Seller - Seller test started
+[INFO] 2022-03-27 15:45:35,466 nobroker Seller - User clicked on Menu
+[INFO] 2022-03-27 15:45:37,766 nobroker Seller - User clicked on Seller Plans
+[INFO] 2022-03-27 15:45:37,770 nobroker Warehouse - Warehouse test started
+[INFO] 2022-03-27 15:45:40,616 nobroker Warehouse - User clicked on Commercial
+[INFO] 2022-03-27 15:45:40,767 nobroker Warehouse - User clicked on Warehouse for Rent in Gurgaon
+[INFO] 2022-03-27 15:45:45,857 nobroker Warehouse - Page contains all the available options 
+[INFO] 2022-03-27 15:45:45,857 nobroker Warehouse - --To check warehouses for rent  Passed--
+[INFO] 2022-03-27 15:45:45,867 nobroker Blog - Blog test started
+[INFO] 2022-03-27 15:45:49,608 nobroker Blog - User clicked on Menu
+[INFO] 2022-03-27 15:46:22,689 nobroker Blog - User clicked on Blog
+[INFO] 2022-03-27 15:46:24,759 nobroker Blog - --To check noboker's blog Passed--
+[INFO] 2022-03-27 15:46:24,768 nobroker Post - Post test started
+[INFO] 2022-03-27 15:46:27,440 nobroker Post - User clicked on Post Free property ad
+[INFO] 2022-03-27 15:46:32,519 nobroker Post - Page contains Sell or Rent your Property For Free 
+[INFO] 2022-03-27 15:46:32,519 nobroker Post - --To verify Post property Passed--
+[INFO] 2022-03-27 15:46:34,809 nobroker Login - Url is opened
+[INFO] 2022-03-27 15:46:35,574 nobroker Login - User clicked Login
+[INFO] 2022-03-27 15:50:35,652 nobroker RentalAgt - RentalAgt test started
+[INFO] 2022-03-27 15:50:37,966 nobroker RentalAgt - User clicked on Rental Agreement under Rent in footer
+[INFO] 2022-03-27 15:50:40,086 nobroker RentalAgt - --To check about Rental Agreement Passed--
+[INFO] 2022-03-27 15:50:40,106 nobroker Hostel - Post test started
+[INFO] 2022-03-27 15:50:42,564 nobroker Hostel - User clicked on PG in Powai
+[INFO] 2022-03-27 15:50:47,671 nobroker Hostel - --To check PG or Hostel Passed--
+[INFO] 2022-03-27 15:50:47,683 nobroker Flatsale - Flatsale test started
+[INFO] 2022-03-27 15:50:53,214 nobroker Flatsale - User clicked on Flats for sale in T Nagr
+[INFO] 2022-03-27 15:50:59,282 nobroker Flatsale - Page contains all the available options 
+[INFO] 2022-03-27 15:50:59,283 nobroker Flatsale - --To check Flats for sale in T Nagar  Passed--
+[INFO] 2022-03-27 15:50:59,287 nobroker About - Post test started
+[INFO] 2022-03-27 15:51:01,795 nobroker About - User clicked on About us
+[INFO] 2022-03-27 15:51:06,842 nobroker About - Page contains Sell or Rent your Property For Free 
+[INFO] 2022-03-27 15:51:06,844 nobroker About - --To check About Us  Passed--
+[INFO] 2022-03-27 15:51:06,860 nobroker Elect - Elect test started
+[INFO] 2022-03-27 15:51:09,357 nobroker Elect - User clicked on  Miscellaneous
+[INFO] 2022-03-27 15:51:09,457 nobroker Elect - User clicked on  Electrician Services Bangalore
+[INFO] 2022-03-27 15:51:16,543 nobroker Elect - --To verify Electrican service Passed--
+[INFO] 2022-03-27 15:51:16,549 nobroker Seller - Seller test started
+[INFO] 2022-03-27 15:51:18,992 nobroker Seller - User clicked on Menu
+[INFO] 2022-03-27 15:51:21,083 nobroker Seller - User clicked on Seller Plans
+[INFO] 2022-03-27 15:51:21,088 nobroker Warehouse - Warehouse test started
+[INFO] 2022-03-27 15:51:23,479 nobroker Warehouse - User clicked on Commercial
+[INFO] 2022-03-27 15:51:23,622 nobroker Warehouse - User clicked on Warehouse for Rent in Gurgaon
+[INFO] 2022-03-27 15:51:28,709 nobroker Warehouse - Page contains all the available options 
+[INFO] 2022-03-27 15:51:28,709 nobroker Warehouse - --To check warehouses for rent  Passed--
+[INFO] 2022-03-27 15:51:28,723 nobroker Blog - Blog test started
+[INFO] 2022-03-27 15:51:32,430 nobroker Blog - User clicked on Menu
+[INFO] 2022-03-27 15:51:43,277 nobroker Blog - User clicked on Blog
+[INFO] 2022-03-27 15:51:45,366 nobroker Blog - --To check noboker's blog Passed--
+[INFO] 2022-03-27 15:51:45,370 nobroker Post - Post test started
+[INFO] 2022-03-27 15:51:48,074 nobroker Post - User clicked on Post Free property ad
+[INFO] 2022-03-27 15:51:53,154 nobroker Post - Page contains Sell or Rent your Property For Free 
+[INFO] 2022-03-27 15:51:53,155 nobroker Post - --To verify Post property Passed--
+[INFO] 2022-03-27 15:51:55,279 nobroker Login - Url is opened
+[INFO] 2022-03-27 15:51:55,846 nobroker Login - User clicked Login
+[INFO] 2022-03-27 15:52:50,229 nobroker Login - Url is opened
+[INFO] 2022-03-27 15:52:50,599 nobroker Login - User clicked Login
+[INFO] 2022-03-27 15:52:52,029 nobroker Login - User entered mobile number
+[INFO] 2022-03-27 15:52:58,333 nobroker Login - User clicked on I've Password
+[INFO] 2022-03-27 15:52:58,452 nobroker Login - User entered password
+[INFO] 2022-03-27 15:52:58,717 nobroker Login - User clicked on Continue
+[INFO] 2022-03-27 15:53:01,821 nobroker Login - --To verify Login functionality Passed--
+[INFO] 2022-03-27 15:53:50,797 nobroker RentalAgt - RentalAgt test started
+[INFO] 2022-03-27 15:53:53,446 nobroker RentalAgt - User clicked on Rental Agreement under Rent in footer
+[INFO] 2022-03-27 15:53:55,550 nobroker RentalAgt - --To check about Rental Agreement Passed--
+[INFO] 2022-03-27 15:53:55,566 nobroker Hostel - Post test started
+[INFO] 2022-03-27 15:53:57,646 nobroker Hostel - User clicked on PG in Powai
+[INFO] 2022-03-27 15:54:02,741 nobroker Hostel - --To check PG or Hostel Passed--
+[INFO] 2022-03-27 15:54:02,756 nobroker Flatsale - Flatsale test started
+[INFO] 2022-03-27 15:54:07,317 nobroker Flatsale - User clicked on Flats for sale in T Nagr
+[INFO] 2022-03-27 15:54:13,407 nobroker Flatsale - Page contains all the available options 
+[INFO] 2022-03-27 15:54:13,408 nobroker Flatsale - --To check Flats for sale in T Nagar  Passed--
+[INFO] 2022-03-27 15:54:13,416 nobroker About - Post test started
+[INFO] 2022-03-27 15:54:15,821 nobroker About - User clicked on About us
+[INFO] 2022-03-27 15:54:20,862 nobroker About - Page contains Sell or Rent your Property For Free 
+[INFO] 2022-03-27 15:54:20,863 nobroker About - --To check About Us  Passed--
+[INFO] 2022-03-27 15:54:20,876 nobroker Elect - Elect test started
+[INFO] 2022-03-27 15:54:23,692 nobroker Elect - User clicked on  Miscellaneous
+[INFO] 2022-03-27 15:54:23,796 nobroker Elect - User clicked on  Electrician Services Bangalore
+[INFO] 2022-03-27 15:54:30,854 nobroker Elect - --To verify Electrican service Passed--
+[INFO] 2022-03-27 15:54:30,861 nobroker Seller - Seller test started
+[INFO] 2022-03-27 15:54:33,376 nobroker Seller - User clicked on Menu
+[INFO] 2022-03-27 15:54:35,483 nobroker Seller - User clicked on Seller Plans
+[INFO] 2022-03-27 15:54:35,488 nobroker Warehouse - Warehouse test started
+[INFO] 2022-03-27 15:54:37,894 nobroker Warehouse - User clicked on Commercial
+[INFO] 2022-03-27 15:54:38,009 nobroker Warehouse - User clicked on Warehouse for Rent in Gurgaon
+[INFO] 2022-03-27 15:54:43,091 nobroker Warehouse - Page contains all the available options 
+[INFO] 2022-03-27 15:54:43,092 nobroker Warehouse - --To check warehouses for rent  Passed--
+[INFO] 2022-03-27 15:54:43,107 nobroker Blog - Blog test started
+[INFO] 2022-03-27 15:54:46,807 nobroker Blog - User clicked on Menu
+[INFO] 2022-03-27 15:55:20,400 nobroker Blog - User clicked on Blog
+[INFO] 2022-03-27 15:55:22,472 nobroker Blog - --To check noboker's blog Passed--
+[INFO] 2022-03-27 15:55:22,486 nobroker Post - Post test started
+[INFO] 2022-03-27 15:55:27,061 nobroker Post - User clicked on Post Free property ad
+[INFO] 2022-03-27 15:55:32,139 nobroker Post - Page contains Sell or Rent your Property For Free 
+[INFO] 2022-03-27 15:55:32,140 nobroker Post - --To verify Post property Passed--
+[INFO] 2022-03-27 15:55:35,911 nobroker Login - Url is opened
+[INFO] 2022-03-27 15:55:36,671 nobroker Login - User clicked Login
+[INFO] 2022-03-27 15:57:46,396 nobroker RentalAgt - RentalAgt test started
+[INFO] 2022-03-27 15:57:48,638 nobroker RentalAgt - User clicked on Rental Agreement under Rent in footer
+[INFO] 2022-03-27 15:57:50,753 nobroker RentalAgt - --To check about Rental Agreement Passed--
+[INFO] 2022-03-27 15:57:50,772 nobroker Hostel - Post test started
+[INFO] 2022-03-27 15:57:55,910 nobroker Hostel - User clicked on PG in Powai
+[INFO] 2022-03-27 15:58:01,006 nobroker Hostel - --To check PG or Hostel Passed--
+[INFO] 2022-03-27 15:58:01,019 nobroker Flatsale - Flatsale test started
+[INFO] 2022-03-27 15:58:06,041 nobroker Flatsale - User clicked on Flats for sale in T Nagr
+[INFO] 2022-03-27 15:58:12,119 nobroker Flatsale - Page contains all the available options 
+[INFO] 2022-03-27 15:58:12,121 nobroker Flatsale - --To check Flats for sale in T Nagar  Passed--
+[INFO] 2022-03-27 15:58:12,126 nobroker About - Post test started
+[INFO] 2022-03-27 15:58:14,533 nobroker About - User clicked on About us
+[INFO] 2022-03-27 15:58:19,565 nobroker About - Page contains Sell or Rent your Property For Free 
+[INFO] 2022-03-27 15:58:19,566 nobroker About - --To check About Us  Passed--
+[INFO] 2022-03-27 15:58:19,578 nobroker Elect - Elect test started
+[INFO] 2022-03-27 15:58:22,022 nobroker Elect - User clicked on  Miscellaneous
+[INFO] 2022-03-27 15:58:22,137 nobroker Elect - User clicked on  Electrician Services Bangalore
+[INFO] 2022-03-27 15:58:29,234 nobroker Elect - --To verify Electrican service Passed--
+[INFO] 2022-03-27 15:58:29,249 nobroker Seller - Seller test started
+[INFO] 2022-03-27 15:58:31,894 nobroker Seller - User clicked on Menu
+[INFO] 2022-03-27 15:58:34,093 nobroker Seller - User clicked on Seller Plans
+[INFO] 2022-03-27 15:58:34,097 nobroker Warehouse - Warehouse test started
+[INFO] 2022-03-27 15:58:36,412 nobroker Warehouse - User clicked on Commercial
+[INFO] 2022-03-27 15:58:36,531 nobroker Warehouse - User clicked on Warehouse for Rent in Gurgaon
+[INFO] 2022-03-27 15:58:41,618 nobroker Warehouse - Page contains all the available options 
+[INFO] 2022-03-27 15:58:41,618 nobroker Warehouse - --To check warehouses for rent  Passed--
+[INFO] 2022-03-27 15:58:41,630 nobroker Blog - Blog test started
+[INFO] 2022-03-27 15:58:45,363 nobroker Blog - User clicked on Menu
+[INFO] 2022-03-27 15:59:18,286 nobroker Blog - User clicked on Blog
+[INFO] 2022-03-27 15:59:20,332 nobroker Blog - --To check noboker's blog Passed--
+[INFO] 2022-03-27 15:59:20,341 nobroker Post - Post test started
+[INFO] 2022-03-27 15:59:23,070 nobroker Post - User clicked on Post Free property ad
+[INFO] 2022-03-27 15:59:28,158 nobroker Post - Page contains Sell or Rent your Property For Free 
+[INFO] 2022-03-27 15:59:28,159 nobroker Post - --To verify Post property Passed--
+[INFO] 2022-03-27 15:59:30,237 nobroker Login - Url is opened
+[INFO] 2022-03-27 15:59:30,823 nobroker Login - User clicked Login
+[INFO] 2022-03-27 15:59:31,574 nobroker Login - User entered mobile number

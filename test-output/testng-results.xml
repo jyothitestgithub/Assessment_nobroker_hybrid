@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="18" total="28" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="116822" started-at="2022-03-27T16:10:24 IST" finished-at="2022-03-27T16:12:21 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="116822" started-at="2022-03-27T16:10:24 IST" finished-at="2022-03-27T16:12:21 IST">
+      <class name="testCases.SellerTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testCases.SellerTest@4a87761d]" name="setup" is-config="true" duration-ms="4" started-at="2022-03-27T16:11:44 IST" finished-at="2022-03-27T16:11:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Seller()[pri:0, instance:testCases.SellerTest@4a87761d]" name="Seller" duration-ms="4508" started-at="2022-03-27T16:11:44 IST" finished-at="2022-03-27T16:11:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Seller -->
+      </class> <!-- testCases.SellerTest -->
+      <class name="testCases.BlogTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testCases.BlogTest@69b0fd6f]" name="setup" is-config="true" duration-ms="6" started-at="2022-03-27T16:10:56 IST" finished-at="2022-03-27T16:10:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Blog()[pri:0, instance:testCases.BlogTest@69b0fd6f]" name="Blog" duration-ms="38303" started-at="2022-03-27T16:10:56 IST" finished-at="2022-03-27T16:11:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Blog -->
+      </class> <!-- testCases.BlogTest -->
+      <class name="testCases.PostTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testCases.PostTest@4671e53b]" name="setup" is-config="true" duration-ms="5" started-at="2022-03-27T16:12:12 IST" finished-at="2022-03-27T16:12:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Post()[pri:0, instance:testCases.PostTest@4671e53b]" name="Post" duration-ms="8853" started-at="2022-03-27T16:12:12 IST" finished-at="2022-03-27T16:12:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Post -->
+      </class> <!-- testCases.PostTest -->
+      <class name="testCases.ElectTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testCases.ElectTest@757942a1]" name="setup" is-config="true" duration-ms="2" started-at="2022-03-27T16:11:34 IST" finished-at="2022-03-27T16:11:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Elect()[pri:0, instance:testCases.ElectTest@757942a1]" name="Elect" duration-ms="9984" started-at="2022-03-27T16:11:34 IST" finished-at="2022-03-27T16:11:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Elect -->
+      </class> <!-- testCases.ElectTest -->
+      <class name="testCases.LoginTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testCases.LoginTest@8646db9]" name="setup" is-config="true" duration-ms="4" started-at="2022-03-27T16:11:49 IST" finished-at="2022-03-27T16:11:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:testCases.LoginTest@8646db9]" name="Login" duration-ms="15087" started-at="2022-03-27T16:11:49 IST" finished-at="2022-03-27T16:12:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+      </class> <!-- testCases.LoginTest -->
+      <class name="testCases.HostelTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testCases.HostelTest@74ad1f1f]" name="setup" is-config="true" duration-ms="2" started-at="2022-03-27T16:10:29 IST" finished-at="2022-03-27T16:10:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Hostel()[pri:0, instance:testCases.HostelTest@74ad1f1f]" name="Hostel" duration-ms="8812" started-at="2022-03-27T16:10:29 IST" finished-at="2022-03-27T16:10:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Hostel -->
+      </class> <!-- testCases.HostelTest -->
+      <class name="testCases.WarehouseTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testCases.WarehouseTest@37374a5e]" name="setup" is-config="true" duration-ms="4" started-at="2022-03-27T16:12:04 IST" finished-at="2022-03-27T16:12:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Warehouse()[pri:0, instance:testCases.WarehouseTest@37374a5e]" name="Warehouse" duration-ms="8485" started-at="2022-03-27T16:12:04 IST" finished-at="2022-03-27T16:12:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Warehouse -->
+      </class> <!-- testCases.WarehouseTest -->
+      <class name="testCases.RentalAgtTest">
+        <test-method status="PASS" signature="driversetup()[pri:0, instance:testCases.RentalAgtTest@612fc6eb]" name="driversetup" is-config="true" duration-ms="3580" started-at="2022-03-27T16:10:21 IST" finished-at="2022-03-27T16:10:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driversetup -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:testCases.RentalAgtTest@612fc6eb]" name="setup" is-config="true" duration-ms="18" started-at="2022-03-27T16:10:24 IST" finished-at="2022-03-27T16:10:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="RentalAgt()[pri:0, instance:testCases.RentalAgtTest@612fc6eb]" name="RentalAgt" duration-ms="4550" started-at="2022-03-27T16:10:24 IST" finished-at="2022-03-27T16:10:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RentalAgt -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:testCases.RentalAgtTest@612fc6eb]" name="teardown" is-config="true" duration-ms="2089" started-at="2022-03-27T16:12:21 IST" finished-at="2022-03-27T16:12:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testCases.RentalAgtTest -->
+      <class name="testCases.AboutTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testCases.AboutTest@462d5aee]" name="setup" is-config="true" duration-ms="3" started-at="2022-03-27T16:10:48 IST" finished-at="2022-03-27T16:10:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="About()[pri:0, instance:testCases.AboutTest@462d5aee]" name="About" duration-ms="7479" started-at="2022-03-27T16:10:48 IST" finished-at="2022-03-27T16:10:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- About -->
+      </class> <!-- testCases.AboutTest -->
+      <class name="testCases.FlatsaleTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testCases.FlatsaleTest@6a1aab78]" name="setup" is-config="true" duration-ms="3" started-at="2022-03-27T16:10:38 IST" finished-at="2022-03-27T16:10:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Flatsale()[pri:0, instance:testCases.FlatsaleTest@6a1aab78]" name="Flatsale" duration-ms="10583" started-at="2022-03-27T16:10:38 IST" finished-at="2022-03-27T16:10:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Flatsale -->
+      </class> <!-- testCases.FlatsaleTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

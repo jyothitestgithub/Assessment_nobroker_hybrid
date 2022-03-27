@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+   <listener class-name="utility.ExtentReporting" />
+  </listeners>
+  <test thread-count="11" name="Test">
+    <classes>
+                  
+                  <class name="testCases.RentalAgtTest"/>
+                  <class name="testCases.HostelTest"/> 
+                  <class name="testCases.FlatsaleTest"/>
+                 <class name="testCases.AboutTest"/>
+                 <class name="testCases.BlogTest"/>
+                  <class name="testCases.ElectTest"/>
+                   <class name="testCases.SellerTest"/>
+                    <class name="testCases.LoginTest"/>
+                   <class name="testCases.WarehouseTest"/>
+                   
+                   
+                   <class name="testCases.PostTest"/>
+                    <class name="testCases.LoginTest"/>
+                   
+      
+    </classes>
+    
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
